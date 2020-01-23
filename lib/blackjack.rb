@@ -39,6 +39,7 @@ def hit? (card_total)
      elsif ans == 'h' then card_total+=deal_card
    else invalid_command
      prompt_user
+     get_user_input
      
   
    
