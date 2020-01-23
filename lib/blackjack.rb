@@ -58,5 +58,6 @@ def runner
   hit?
 end
   display_card_total
+end_game
 end
     
