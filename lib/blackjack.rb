@@ -53,6 +53,6 @@ end
 
 def runner(card_total)
   welcome
-
+binding.pry
 end
     
