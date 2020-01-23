@@ -39,7 +39,7 @@ def hit? (card_total)
      elsif
   
    
-   end
+   
  
 end
 
