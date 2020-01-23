@@ -1,4 +1,4 @@
-require 'pry'
+require'pry'
 
 def welcome
   puts "Welcome to the Blackjack Table"
@@ -55,5 +55,6 @@ def runner
   card_total=0
   welcome
   initial_round
+  
 end
     
