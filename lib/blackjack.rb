@@ -54,7 +54,6 @@ end
 def runner
   welcome
   initial_round
-  initial_round
   binding.pry
 end
     
